@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyDrawer 1</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="description">picture</string>
+
+    <string name="one">sound1</string>
+
+</resources>
